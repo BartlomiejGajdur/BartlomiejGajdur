@@ -14,7 +14,7 @@ At TwinCodeCorp I was responsible for designing the full application logic and d
 <a href="https://isocpp.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> 
 <a href="https://cmake.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="60" height="60"/> </a>
-<a href="https://conan.io/"> <img src="https://images.seeklogo.com/logo-png/39/1/conan-logo-png_seeklogo-393092.png" alt="Conan" width="60" height="60"/> </a>
+<a href="https://conan.io/"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Conan_package_manager_logo.png" alt="Conan" width="60" height="60"/> </a>
 <a href="https://www.linux.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> </a>
 <a href="https://flutter.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/> </a>
 </p>
