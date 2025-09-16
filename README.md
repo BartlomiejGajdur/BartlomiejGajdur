@@ -8,19 +8,21 @@ At TwinCodeCorp I was responsible for designing the full application logic and d
 
 ---
 
-## <p align=center>🖥️ Languages and tools:</p>
+## <p align=center>🛠️ Languages and Tools:</p>
 
-<p align=center>
+<p align="center">
 <a href="https://isocpp.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
-<a href="https://cmake.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" width="60" height="60"/> </a>
-<a href="https://www.qt.io/"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="60" height="60"/> </a>
-<a href="https://www.boost.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Boost.png" alt="boost" width="60" height="60"/> </a>
-<a href="https://git-scm.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a> 
-<a href="https://www.docker.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
-<a href="https://www.postgresql.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="psql" width="60" height="60"/> </a>
-<a href="https://www.mongodb.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-<a href="https://nginx.org/en/"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
-<a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual-studio" width="60" height="60"/> </a>
+<a href="https://cmake.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="60" height="60"/> </a>
+<a href="https://conan.io/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Conan_logo.png" alt="Conan" width="60" height="60"/> </a>
+<a href="https://www.linux.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> </a>
+<a href="https://flutter.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/> </a>
+<a href="https://dart.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/> </a>
+<a href="https://developer.apple.com/ios/"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="iOS" width="60" height="60"/> </a>
+<a href="https://www.docker.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://www.mongodb.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/> </a>
+<a href="https://visualstudio.microsoft.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="60" height="60"/> </a>
+<a href="https://github.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/> </a>
+<a href="https://git-scm.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/> </a>
 </p>
 <br>  
 
